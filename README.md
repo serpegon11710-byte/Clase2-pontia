@@ -88,3 +88,5 @@ Incluye:
 - Revisa los logs por job y por step.
 - Trabaja con workflows pequeños y fáciles de depurar.
 - Trata la IA como una herramienta de apoyo, no como una sustitución de la revisión humana.
+
+[![Pruebas Python](https://github.com/serpegon11710-byte/Clase2-pontia/actions/workflows/04_tests.yml/badge.svg)](https://github.com/serpegon11710-byte/Clase2-pontia/actions/workflows/04_tests.yml)
